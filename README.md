@@ -1,4 +1,4 @@
-# <p align=center><b>SIRAQ</b></p>
+# <p align=center><b>S&nbsp;&nbsp;&nbsp;I&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;Q</b></p>
 # WebApp open-source para administración de sistemas educativos públicos y gratuitos
 ## DESCRIPCIÓN BREVE
 SIRAQ es un sistema informático sobre una plataforma webapp de código abierto, es una iniciativa solidaria orientada a la educación pública. Está desarrollado en (php-mysql-html-css-js-java-kotlin) con algunas librerías de terceros para manejo de archivos y mensajería. En breve estará disponible la primera versión abierta con la idea de compartir y sumar más programadores que quieran hacer sus aportes.
