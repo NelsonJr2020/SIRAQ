@@ -1,7 +1,7 @@
 # <p align=center><b>S&nbsp;&nbsp;&nbsp;I&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;Q</b></p>
 # WebApp open-source para administración de sistemas educativos públicos y gratuitos
 ## DESCRIPCIÓN BREVE
-SIRAQ es un sistema informático sobre una plataforma webapp de código abierto, es una iniciativa solidaria orientada a la educación pública. Está desarrollado en (php-mysql-html-css-js-java-kotlin) con algunas librerías de terceros para manejo de archivos y mensajería. En breve estará disponible la primera versión abierta con la idea de compartir y sumar más programadores que quieran hacer sus aportes.
+SIRAQ es un sistema informático que corre sobre una plataforma webapp de código abierto. Nació como una iniciativa solidaria destinada a la educación pública y gratuita. Está desarrollado en <b>[php-mysql-html-css-js]</b> con algunas librerías de terceros para el manejo de archivos y mensajería. No pretende ser un sistema completamente desarrollado, la idea del proyecto es desarrollarlo y adaptarlo a las necesidades educativas particulares y a los estándares de programación actuales.
 <picture>
   <img alt="Encabezado del readme"  src="https://user-images.githubusercontent.com/62829278/265571695-63145d89-f9ba-45d4-a76d-168f92699f50.png">
 </picture>
@@ -13,17 +13,16 @@ SIRAQ es un sistema informático sobre una plataforma webapp de código abierto,
 </p>
 
 
-♪ ♫ ♪
-A todos aquellos programadores que incursionen en PHP 8, y tengan conocimientos en el paradigma de programación orientada a objetos, están invitados a aportar su rayo de luz y a dejar un legado para futuras generaciones.
+En breve estará disponible el código de la primera versión, libre y  abierto. De más está decir que quienes posean conocimientos ya sea en PHP 8 en el paradigma de programación orientada a objetos, en HTML/CSS o javascript están cordialmente invitadas e invitados a aportar un rayo de luz y a dejar un legado para futuras generaciones.
 
 
-### Bienvenidos a este humilde y sincero proyecto pensado en los que menos tienen y más necesitan.
+### Bienvenidas y bienvenidos a este proyecto en curso !!!
 
  <p align="right">
 <i>Saludos desde el sur de Argentina</i>
 </p>
 <p align="right">
-N e l s o n   &nbsp; &nbsp; &nbsp; A l d e r e t e
+N  e  l  s  o  n   &nbsp; &nbsp; &nbsp; A  l  d  e  r  e  t  e
 </p>
 
 
