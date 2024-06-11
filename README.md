@@ -19,7 +19,7 @@ En breve estará disponible el código de la primera versión, libre y  abierto.
 ### Bienvenidos a este proyecto en curso !!!
 
  <p align="right">
-<i>Saludos desde la Provincia de Tierra del Fuego Antártida e Islas del Atlántico Surt - Argentina</i>
+<i>Saludos desde la Provincia de Tierra del Fuego, Antártida, e Islas del Atlántico Sur - Argentina</i>
 </p>
 <p align="right">
 N  e  l  s  o  n   &nbsp; &nbsp; &nbsp; A  l  d  e  r  e  t  e
